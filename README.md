@@ -6,15 +6,18 @@ I'm a Computer Science student and Python Developer focused on building practica
 
 I'm building **GoloTech**, a software brand focused on practical automation tools and business solutions.
 
+
 ## 🛠️ Technical Skills
 
-- **Programming:** Python
+- **Programming:** Python, JavaScript (Fundamentals)
 - **Automation:** Python Scripting, File Automation, Web Scraping
 - **Data Handling:** CSV, JSON, Excel
 - **Desktop Applications:** Python GUI Development
 - **Development Tools:** Git, GitHub, VS Code, PyCharm
 - **Additional Experience:** Python Game Development with Pygame
 - **Currently Learning:** AI Integration, APIs, Backend Development
+- **Currently Reviewing:** JavaScript Programming
+
 
 ## 🚀 Featured Projects
 
